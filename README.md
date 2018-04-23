@@ -1,0 +1,1 @@
+# contest2018-image_scene_classification
