@@ -2,7 +2,7 @@
 
 ## 硬件型号和配置
 
-本次大赛初赛免费为选手提供GPU计算资源。GPU服务器为金山云P3I.14B1，配置如下：
+本次大赛区域赛免费为选手提供GPU计算资源。GPU服务器为金山云P3I.14B1，配置如下：
 * GPU：Tesla P4 x 1
 * vCPU：Xeon E5 v4 14核
 * 内存：DDR4 120GB
@@ -59,7 +59,7 @@ wget http://10.0.0.4/image_scene_training_v1.zip
 wget http://10.0.0.4/image_scene_training_v1.zip.sha1
 ```
 
-比如数据集完整性：
+验证数据集完整性：
 
 ```bash
 # 以声纹数据集为例
